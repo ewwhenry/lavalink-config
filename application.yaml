@@ -31,9 +31,9 @@ plugins:
       localFiles: false # Enable local files support with Spotify playlists. Please note `uri`
 lavalink:
   plugins:
-    - dependency: "com.github.topi314.lavasrc:lavasrc-plugin:4.4.1"
+    - dependency: "com.github.topi314.lavasrc:lavasrc-plugin:4.6.0"
       repository: "https://maven.lavalink.dev/releases"
-    - dependency: "dev.lavalink.youtube:youtube-plugin:1.11.4"
+    - dependency: "dev.lavalink.youtube:youtube-plugin:1.13.0"
       snapshot: false # Set to true if you want to use a snapshot version.
   #    - dependency: "com.github.example:example-plugin:1.0.0" # required, the coordinates of your plugin
   #      repository: "https://maven.example.com/releases" # optional, defaults to the Lavalink releases repository by default
